@@ -8,13 +8,13 @@
 Summary:	POE::Quickie - A lazy way to wrap blocking code and programs
 #Summary(pl.UTF-8):
 Name:		perl-POE-Quickie
-Version:	0.12
+Version:	0.18
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/POE/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	eb345fd4d58f786bacd7477bf7738f66
+# Source0-md5:	a510c905e4bc84fb945ab0a2d85dfd16
 URL:		http://search.cpan.org/dist/POE-Quickie/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
