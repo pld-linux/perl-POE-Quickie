@@ -4,7 +4,6 @@
 #
 %define		pdir	POE
 %define		pnam	Quickie
-%include	/usr/lib/rpm/macros.perl
 Summary:	POE::Quickie - A lazy way to wrap blocking code and programs
 #Summary(pl.UTF-8):
 Name:		perl-POE-Quickie
